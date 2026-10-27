@@ -1,0 +1,10 @@
+{
+  "name": "project-kit",
+  "description": "Start any web or mobile project right, new or existing. project-docs writes the brief, PRD, SRS, UX, architecture, tech spec, security, test plan, and build plan. project-bootstrap turns them into CLAUDE.md, path-scoped rules, project skills, shared settings, and tier-sized infrastructure.",
+  "author": {
+    "name": "amarduwal",
+    "url": "https://github.com/amarduwal"
+  },
+  "repository": "https://github.com/amarduwal/masterprompt",
+  "keywords": ["claude-md", "project-setup", "prd", "srs", "architecture", "onboarding", "web", "mobile"]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "masterprompt",
+  "owner": {
+    "name": "amarduwal",
+    "url": "https://github.com/amarduwal"
+  },
+  "description": "Project kickoff kit for Claude Code: full project docs, then persistent project context.",
+  "plugins": [
+    {
+      "name": "project-kit",
+      "source": "./plugins/project-kit",
+      "description": "Start any web or mobile project right: project-docs writes the docs set, project-bootstrap turns it into CLAUDE.md, rules, skills, settings, and tier-sized infrastructure."
+    }
+  ]
+}
