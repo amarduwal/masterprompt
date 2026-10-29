@@ -73,3 +73,7 @@ plugins/project-kit/
 
 - No `version` is set, so every pushed commit is a new version for anyone who updates. To ship pinned releases instead, add `"version": "1.0.0"` to `plugin.json` only (not `marketplace.json`) and bump it on each release.
 - Private repo: teammates need non-interactive git access to it (`gh auth login` then `gh auth setup-git`, or an SSH key loaded in ssh-agent).
+
+## License
+
+MIT, see [LICENSE](LICENSE).
